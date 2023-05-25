@@ -1,0 +1,38 @@
+﻿<!doctype html>
+<html>
+<head> 
+<title> 3</title>
+</head>
+
+<body> 
+<h4>Product:</h4>
+   <ol type=A>
+   <li>fresh product</li>
+   <ul type="disc">
+   <li>blueberry</li>    
+   <li>capsicum</li>
+   <li>fenugreek</li>
+   <li>cilantro</li>
+   </ul>
+   <li>Snack Foods</li>
+   <ol type=i>
+   <li>choco</li>
+</ol>
+  <ul type="square">
+   <li>crepe chocolate wafers</li>
+   <li>cadbury dairy milk</li>
+   <li>crunchy oats & honey bar</li>
+   <li>kitkat crunchy</li>
+   </ul>
+   <ol type="i" start="2">
+   <li>Snack</li>
+   </ol>
+   <ul type="circle">
+   <li>cheez-lit</li>
+   <li>doritos</li>
+   <li>popcorn</li>
+   </ul>
+   
+   
+   </body>
+</html>
